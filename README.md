@@ -177,6 +177,7 @@ Welcome to the ultimate hub for on-device Large Language Models (LLMs)! This rep
 ### Popular On-Device LLMs Framework
 
 - llama.cpp: A lightweight library for efficient LLM inference on various hardware with minimal setup. [[Github]](https://github.com/ggerganov/llama.cpp)
+- prima.cpp: A distributed implementation of llama.cpp that lets you run 70B-level LLMs with multiple everyday devices. [[Github]](https://github.com/Lizonghang/prima.cpp)
 - MNN: A blazing fast, lightweight deep learning framework. [[Github]](https://github.com/alibaba/MNN)
 - PowerInfer: A CPU/GPU LLM inference engine leveraging activation locality for device. [[Github]](https://github.com/SJTU-IPADS/PowerInfer)
 - ExecuTorch: A platform for On-device AI across mobile, embedded and edge for PyTorch. [[Github]](https://github.com/pytorch/executorch)
